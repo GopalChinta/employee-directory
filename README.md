@@ -55,8 +55,3 @@ No installation needed.
 ## Author
 
 Created by **Venu Gopal Chintha** for AJACKUS UI Assignment.
-```
-
-
-
-
